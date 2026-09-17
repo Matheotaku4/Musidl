@@ -5,6 +5,7 @@ Une belle application GUI pour télécharger de la musique depuis Tidal via l'AP
 ## ✨ Fonctionnalités
 
 - **Recherche musicale** : Recherchez des titres, albums ou artistes
+- **Téléchargements multiples** : 
 - **Téléchargements multiples** :
   - Télécharger un titre unique
   - Télécharger un album complet
@@ -157,4 +158,5 @@ Vous pouvez modifier les constantes suivantes dans le code :
 
 ## 📝 Licence
 
+Ce projet est fourni tel quel. Veuillez respecter les conditions d'utilisation de Tidal et les lois sur le droit d'auteur applicables dans votre pays.
 Ce projet est fourni tel quel. Veuillez respecter les conditions d'utilisation de Tidal et les lois sur le droit d'auteur applicables dans votre pays.
